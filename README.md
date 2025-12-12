@@ -1,5 +1,5 @@
 # screensDelete
-The repository contains a script that starts a script to delete obsolete screenshot, i.e. not used screenshots in the PolyAnalyst User's manual.
+The repository contains a script that starts another script to delete obsolete screenshot, i.e. not used screenshots in the PolyAnalyst User's Manual.
 
 ***
 
